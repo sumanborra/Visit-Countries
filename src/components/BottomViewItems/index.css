@@ -1,0 +1,32 @@
+.list-item-visted-country-image {
+  width: 40%;
+  margin: 15px;
+  background-color: #334155;
+}
+.image-visited {
+  height: 213px;
+}
+.container-visited-list {
+  background-color: #334155;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  line-height: 0.1;
+}
+.country-name-text {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #f8fafc;
+}
+.buttn-remove {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #ffffff;
+  padding: 4px;
+  height: 40px;
+  width: 120px;
+  border-radius: 10px;
+}

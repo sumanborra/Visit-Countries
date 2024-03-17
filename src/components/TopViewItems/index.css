@@ -1,0 +1,35 @@
+.list-items {
+  width: 100%;
+}
+.items-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 11px;
+}
+.text-para {
+  font-family: 'Roboto';
+  font-size: 28px;
+  color: #f1f5f9;
+}
+.buttn {
+  background-color: #3b82f6;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 18px;
+  padding: 5px;
+  height: 40px;
+  width: 100px;
+  border: none;
+  cursor: pointer;
+}
+.harizontal-line {
+  width: 100%;
+  margin-top: 13px;
+}
+.para-visited-text {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #94a3b8;
+}
